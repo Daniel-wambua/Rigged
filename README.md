@@ -1,1 +1,1 @@
-# Rigged is a simple repo for testing.
+# Rigged is a simple repo for testing software dev
